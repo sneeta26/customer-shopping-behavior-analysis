@@ -2,7 +2,7 @@
 
 An end-to-end data analytics project analyzing customer shopping behavior to uncover purchasing patterns, customer segments, product performance, and opportunities to improve engagement, marketing, and revenue.
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](customer shopping behaviour.jpeg)
 
 ## 📌 Project Overview
 
